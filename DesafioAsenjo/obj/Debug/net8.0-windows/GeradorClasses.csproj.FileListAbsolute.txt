@@ -1,0 +1,141 @@
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.exe
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.deps.json
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.runtimeconfig.json
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\DesafioAsenjo.Form1.resources
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.GenerateResource.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfoInputs.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfo.cs
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.CoreCompileInputs.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\refint\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.genruntimeconfig.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\ref\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormVisualClasse.resources
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.exe
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.deps.json
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.runtimeconfig.json
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\DesafioAsenjo.Form1.resources
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormVisualClasse.resources
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.GenerateResource.cache
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfoInputs.cache
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfo.cs
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.CoreCompileInputs.cache
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\refint\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.genruntimeconfig.cache
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\ref\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.AssemblyReference.cache
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormClassesSalvas.resources
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\kili1\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorC.30072E8E.Up2Date
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.exe
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.deps.json
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.runtimeconfig.json
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.AssemblyReference.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\DesafioAsenjo.Form1.resources
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormClassesSalvas.resources
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormVisualClasse.resources
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.GenerateResource.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfoInputs.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfo.cs
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.CoreCompileInputs.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorC.30072E8E.Up2Date
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\refint\GeradorClasses.dll
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.genruntimeconfig.cache
+C:\Users\grasiellyribeiro\Downloads\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\ref\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.exe
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.deps.json
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.runtimeconfig.json
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.AssemblyReference.cache
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\DesafioAsenjo.Form1.resources
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormClassesSalvas.resources
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormVisualClasse.resources
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.GenerateResource.cache
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfoInputs.cache
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfo.cs
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.CoreCompileInputs.cache
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorC.30072E8E.Up2Date
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\refint\GeradorClasses.dll
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.genruntimeconfig.cache
+C:\Users\kili1\Downloads\DesafioAsenjo (1)\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\ref\GeradorClasses.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.exe
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.deps.json
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.runtimeconfig.json
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.AssemblyReference.cache
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\DesafioAsenjo.Form1.resources
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormClassesSalvas.resources
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.FormVisualClasse.resources
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.GenerateResource.cache
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfoInputs.cache
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.AssemblyInfo.cs
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.csproj.CoreCompileInputs.cache
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorC.30072E8E.Up2Date
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\refint\GeradorClasses.dll
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.pdb
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\GeradorClasses.genruntimeconfig.cache
+C:\Users\kili1\Documents\DesafioAsenjo\DesafioAsenjo\obj\Debug\net8.0-windows\ref\GeradorClasses.dll

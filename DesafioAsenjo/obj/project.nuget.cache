@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLLY3jQvaX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kili1\\Documents\\DesafioAsenjo\\DesafioAsenjo\\GeradorClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kili1\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.5\\system.configuration.configurationmanager.10.0.5.nupkg.sha512",
+    "C:\\Users\\kili1\\.nuget\\packages\\system.data.oledb\\10.0.5\\system.data.oledb.10.0.5.nupkg.sha512",
+    "C:\\Users\\kili1\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.5\\system.diagnostics.eventlog.10.0.5.nupkg.sha512",
+    "C:\\Users\\kili1\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.5\\system.diagnostics.performancecounter.10.0.5.nupkg.sha512",
+    "C:\\Users\\kili1\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.5\\system.security.cryptography.protecteddata.10.0.5.nupkg.sha512",
+    "C:\\Users\\kili1\\.nuget\\packages\\system.threading.accesscontrol\\10.0.5\\system.threading.accesscontrol.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

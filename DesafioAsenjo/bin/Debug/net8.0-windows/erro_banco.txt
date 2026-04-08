@@ -1,0 +1,3 @@
+Erro ao salvar classe: Data type mismatch in criteria expression.
+Erro ao salvar classe: Data type mismatch in criteria expression.
+Erro ao salvar classe: Data type mismatch in criteria expression.
