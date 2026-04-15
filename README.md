@@ -43,4 +43,4 @@ Estudantes do 3º semestre do curso de Sistemas de Informação na Universidade 
 - Daniel de Alvarenga Assis
 - Daniela Catarino Varela
 - Grasielly Ribeiro
-- - Gustavo Kenzo de Barros
+- Gustavo Kenzo de Barros
