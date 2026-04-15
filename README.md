@@ -1,5 +1,4 @@
-# CriadordeClasses
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/grasyzip/CriadordeClasses)
+
 
 `CriadordeClasses` é um aplicativo de desktop construído com C# e Windows Forms que permite aos usuários gerar dinamicamente definições de classe C#. Os usuários podem especificar o nome da classe, a visibilidade e as propriedades com seus respectivos tipos de dados. O código gerado é então exibido com realce de sintaxe e pode ser copiado ou salvo. Este projeto foi desenvolvido como parte de um curso de Aplicações para Desktop.
 
